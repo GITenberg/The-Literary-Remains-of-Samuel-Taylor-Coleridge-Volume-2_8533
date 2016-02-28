@@ -1,0 +1,46 @@
+_repo: The-Literary-Remains-of-Samuel-Taylor-Coleridge-Volume-2_8533
+contributor:
+  creator:
+    editor:
+      agent_name: Coleridge, Henry Nelson
+      birthdate: 1798
+      deathdate: 1843
+      gutenberg_agent_id: '2942'
+      url: http://www.gutenberg.org/2009/agents/2942
+      wikipedia: http://en.wikipedia.org/wiki/Henry_Nelson_Coleridge
+creator:
+  author:
+    agent_name: Coleridge, Samuel Taylor
+    alias: Coleridge, S. T. (Samuel Taylor)
+    birthdate: 1772
+    deathdate: 1834
+    gutenberg_agent_id: '95'
+    url: http://www.gutenberg.org/2009/agents/95
+    wikipedia: http://en.wikipedia.org/wiki/Samuel_Taylor_Coleridge
+description: ''
+gutenberg_issued: '2005-07-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '8533'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Shakespeare, William, 1564-1616 -- Criticism and interpretation'
+- !lcsh 'Literature -- History and criticism'
+- !lcc 'PR'
+tableOfContents: Shakspeare, with introductory matter on poetry, the drama, and the
+  stage -- Notes on Ben Jonson -- Beaumont and Fletcher -- On the Prometheus of Aeschylus
+  -- Note on Chalmer's Life of Daniel -- Bishop Corbet -- Notes on Selden's Table
+  Talk -- Note on theological lectures of Benjamin Wheeler, D. D. -- Note on a sermon
+  on the prevalence of infidelity and enthusiasm, by Walter Birch, B.D. -- Fenelon
+  on charity -- Change of the climates -- Wonderfulness of prose -- Notes on Tom Jones
+  -- Jonathan Wild -- Barry Cornwall -- The primitive Christian's address to the cross
+  -- Fuller's holy state -- Fuller's profane state -- Fuller's appeal of injured innocence
+  -- Fuller's church history -- Asgill's argument -- Introduction to Asgill's defence
+  upon his expulsion from the House of Commons -- Notes on Sir Thomas Browne's Religio
+  Medici -- Notes on Sir Thomas Browne's Garden of Cyrus -- Notes on Sir Thomas Browne's
+  Vulgar errors.
+title: The Literary Remains of Samuel Taylor Coleridge, Volume 2
+url: http://www.gutenberg.org/ebooks/8533
